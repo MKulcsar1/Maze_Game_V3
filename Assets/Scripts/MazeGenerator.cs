@@ -18,6 +18,7 @@ public class MazeGenerator : MonoBehaviour
     [SerializeField]
     private int _seed;
 
+    // trap
     [SerializeField]
     private bool _useSeed;
 
